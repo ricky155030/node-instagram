@@ -12,5 +12,6 @@
     "q": "^1.4.1",
     "read": "^1.0.7",
     "request": "^2.72.0"
-  }
+  },
+  "url": "https://github.com/ricky155030/node-instagram"
 }
