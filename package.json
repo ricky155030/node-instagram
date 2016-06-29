@@ -1,0 +1,16 @@
+{
+  "name": "node-instagram",
+  "version": "1.0.0",
+  "description": "Instagram api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1",
+    "read": "^1.0.7",
+    "request": "^2.72.0"
+  }
+}
