@@ -1,17 +1,24 @@
 {
-  "name": "node-instagram",
-  "version": "1.0.0",
-  "description": "Instagram api",
+  "name": "node-instagram-api",
+  "version": "0.1.2",
+  "description": "Instagram API",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ricky Kao",
-  "license": "ISC",
+  "keywords": [
+    "instagram",
+    "instagram api"
+  ],
+  "author": "Ricky Kao <hungwei.kao@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "q": "^1.4.1",
     "read": "^1.0.7",
     "request": "^2.72.0"
   },
-  "url": "https://github.com/ricky155030/node-instagram"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricky155030/node-instagram"
+  }
 }
